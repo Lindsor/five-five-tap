@@ -1,0 +1,27 @@
+{
+  "name": "ln-five-five-tap",
+  "version": "1.0.0",
+  "description": "A Five by Five tap code encoder / decoder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Lindsor/five-five-tap.git"
+  },
+  "keywords": [
+    "five",
+    "tap",
+    "cruptography",
+    "cypher",
+    "decode",
+    "encode"
+  ],
+  "author": "Marcelo Luz <marcelopluz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lindsor/five-five-tap/issues"
+  },
+  "homepage": "https://github.com/Lindsor/five-five-tap#readme"
+}
